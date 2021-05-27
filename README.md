@@ -28,6 +28,10 @@ import { DocumentViewer } from '@abdullahnasir/react-native-documents-viewer'
 ...
 ```
 
+## Demo
+
+![Screenshot](assests/images/docExample.png)
+
 ## Thanks
 
 - [Office Web Viewer: View Office documents in a browser](http://t.cn/EorILXa)
