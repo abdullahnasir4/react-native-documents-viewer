@@ -1,0 +1,19 @@
+{
+  "name": "@abdullahnasir/react-native-documents-viewer",
+  "version": "1.0.5",
+  "description": "view documents in react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "document",
+    "fileviewer",
+    "excel",
+    "word",
+    "txt",
+    "rft"
+  ],
+  "author": "Abdullah Nasir",
+  "license": "ISC"
+}
